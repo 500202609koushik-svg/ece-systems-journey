@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "My ECE to Systems journey begins!";
+    cout << "my goal:systems programming and Gpu computing";
     return 0;
 }
